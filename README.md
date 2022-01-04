@@ -44,7 +44,7 @@ The user should be able to:
 ## Installation
 * Clone the repository using:
 ```
-git clone https://github.com/laurelthorburn/Tech-Blog.git
+git clone https://github.com/laurelthorburn/Workout-Tracker.git
 ```
 * Ensure you are in the current working directory
 * Open terminal in working directory and type:
